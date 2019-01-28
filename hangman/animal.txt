@@ -1,0 +1,6 @@
+Monkey__h!Nt_"Banana"
+Alaskan king crab__h!Nt_"8 legs, live in the sea, expensive"
+Catfish__h!Nt_"Spicy salad, deep fried"
+Penguin__h!Nt_"Bird but cannot fly"
+Dinosaur__h!Nt_"Extinct"
+Monitor lizard__h!Nt_"Suan Lumpini"
